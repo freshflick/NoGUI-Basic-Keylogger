@@ -11,4 +11,4 @@ A simple and straightforward keylogger
 
 # Additional notes on the Keylogger:
 - My first take on creating a real world project, I will be updating this keylogger with more functions as I develop my skills.
-- My first improvement would be to integrate the concept GUI I have prepared alongside the code.
+- Will soon work on integrating the GUI I have prepared with the code.
