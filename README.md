@@ -12,3 +12,8 @@ A simple and straightforward keylogger
 # Additional notes on the Keylogger:
 - My first take on creating a real world project, I will be updating this keylogger with more functions as I develop my skills.
 - Will soon work on integrating the GUI I have prepared with the code.
+
+-------------------------------------------------------------------------------------------
+
+# Preview of the user interface:
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/92ae7b17-8efd-4c19-8146-1eab49702122" />
