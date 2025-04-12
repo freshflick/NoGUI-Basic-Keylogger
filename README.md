@@ -10,8 +10,8 @@ A simple and straightforward keylogger
 - Its mainly used in the cybersecurity field to track keystrokes for security or investigative purposes.
 
 # Additional notes on the Keylogger:
-- My first take on creating a real world project, I will be updating this keylogger with more functions as I develop my skills.
-- Will soon work on integrating the GUI I have prepared with the code.
+- My first take on creating a real world project, I will be updating this keylogger with more functionality as I develop my skills.
+- Will soon work on integrating the GUI as shown in the preview below....
 
 -------------------------------------------------------------------------------------------
 
